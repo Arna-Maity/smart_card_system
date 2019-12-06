@@ -1,0 +1,5 @@
+venv/
+Python_Code/*.json
+./py_ser_comm.py
+Python_Code/*.swp
+Python_Code/py_comm.py
